@@ -4,7 +4,7 @@ This is a web application that demonstrates how to integrate with
 Rally's ALM platform using Oauth.
 
 
-TODO: blah blah about Rally and Agile and crap like that
+On the interwebs at http://rally-oauth-demo.herokuapp.com/
 
 
 ## Usage
